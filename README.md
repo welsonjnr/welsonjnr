@@ -1,10 +1,12 @@
-### O pai ta on 👋
+### Olá, eu sou o Welson Júnior 👋
 
-Um pouco sobre mmim e um fato:
+Um pouco sobre mim e um fato:
 
-- 🔭 Hoje trabalho para o meu futuro,
-- 🌱 Estou atualmente estudando Java, JavaScript e ReactJS,
-- ⚡ Fun fact: O quadrado da hipotenusa é igual à soma dos quadrados dos catetos.
+- Futuro em progresso,
+- Estou atualmente estudando Java, JavaScript e ReactJS,
+- Analista e Desenvolvedor de Sistemas.
+- Fun fact: O quadrado da hipotenusa é igual à soma dos quadrados dos catetos.
+- Goiás, uai.
 
 <div>
   <a href="https://beacons.ai/welsonjnr">
