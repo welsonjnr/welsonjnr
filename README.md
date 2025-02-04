@@ -2,11 +2,9 @@
 
 Um pouco sobre mim e um fato:
 
-- Futuro em progresso,
-- Estou atualmente estudando Java, JavaScript e ReactJS,
+- Desenvolvedor Java, JavaScript e ReactJS,
 - Analista e Desenvolvedor de Sistemas.
 - Fun fact: O quadrado da hipotenusa é igual à soma dos quadrados dos catetos.
-- Goiás, uai.
 
 <div>
   <a href="https://beacons.ai/welsonjnr">
